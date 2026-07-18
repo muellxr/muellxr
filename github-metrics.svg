@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="150" viewBox="0 0 720 150" role="img" aria-labelledby="title desc">
+  <title id="title">Language metrics placeholder</title>
+  <desc id="desc">This placeholder will be replaced by the GitHub Actions workflow.</desc>
+  <style>
+    .primary { fill: #24292f; }
+    .secondary { fill: #57606a; }
+    .accent { fill: #0969da; }
+    @media (prefers-color-scheme: dark) {
+      .primary { fill: #c9d1d9; }
+      .secondary { fill: #8b949e; }
+      .accent { fill: #58a6ff; }
+    }
+  </style>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="360" y="55" text-anchor="middle" class="accent" font-size="20" font-weight="600">Language metrics are warming up</text>
+    <text x="360" y="88" text-anchor="middle" class="primary" font-size="15">The workflow will replace this file after its first successful run.</text>
+    <text x="360" y="116" text-anchor="middle" class="secondary" font-size="13">Private repository names and source code are not displayed.</text>
+  </g>
+</svg>
