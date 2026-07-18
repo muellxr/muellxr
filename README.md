@@ -144,6 +144,6 @@ My homelab grew from “just a quick test” into “I should probably host this
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:emueller@astrophysik.uni-kiel.de" title="Email">
-    <img height="48" src="https://api.iconify.design/material-symbols/mail-rounded.svg?color=%2358A6FF" alt="Email" />
+    <img height="42" src="assets/mail.svg" alt="Email" />
   </a>
 </div>

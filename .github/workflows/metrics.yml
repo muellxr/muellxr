@@ -34,4 +34,13 @@ jobs:
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
 
-          commits_authoring: muellxr, emueller@astrophysik.uni-kiel.de, muellxr@users.noreply.github.com
+          commits_authoring: >-
+            muellxr,
+            Erik Mueller,
+            Erik Müller,
+            emueller@astrophysik.uni-kiel.de,
+            erik@mueller-rz.de,
+            muellxr@users.noreply.github.com
+
+          debug: yes
+          plugins_errors_fatal: yes
