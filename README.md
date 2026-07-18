@@ -121,7 +121,7 @@ My homelab grew from “just a quick test” into “I should probably host this
 </div>
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Programming language activity and authored lines of code" />
+  <img src="github-metrics.svg" alt="Programming language activity across my repositories" />
 </div>
 
 <div align="center">

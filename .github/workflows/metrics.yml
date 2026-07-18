@@ -24,23 +24,8 @@ jobs:
           config_timezone: Europe/Berlin
 
           plugin_languages: yes
-          plugin_languages_indepth: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage, lines
+          plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 1%
           plugin_languages_other: yes
-          plugin_languages_categories: programming, markup
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
-
-          commits_authoring: >-
-            muellxr,
-            Erik Mueller,
-            Erik Müller,
-            emueller@astrophysik.uni-kiel.de,
-            erik@mueller-rz.de,
-            muellxr@users.noreply.github.com
-
-          debug: yes
-          plugins_errors_fatal: yes
